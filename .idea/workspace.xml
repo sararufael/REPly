@@ -1,7 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11718805-034f-4076-abbb-ced27250cfe9" name="Default" comment="" />
+    <list default="true" id="11718805-034f-4076-abbb-ced27250cfe9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOCK_DATA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/css/owl.carousel.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/destination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/fontawesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/cheatsheet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/css/ionicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/css/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/fonts/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/PolitiFact_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/Vote411Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/Vote411Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/big_image_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/big_image_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/budget1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/healthcare1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/hurricane1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/img_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/immigration1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/minwage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/person_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/townhall1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/images/vote_logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/jquery-3.2.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/jquery-migrate-3.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/jquery.waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_navbar-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VOTEAPP-master/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Visualizations.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mockdata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/representative.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/representative.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +158,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/BallotBox$BallotBox.coverage" NAME="BallotBox Coverage Results" MODIFIED="1540085392360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BallotBox$BallotBox.coverage" NAME="BallotBox Coverage Results" MODIFIED="1540104480272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,44 +179,45 @@
       <file leaf-file-name="app.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+            <state relative-caret-position="335">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#2#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="representative.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="destination.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/destination.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="161" column="14" lean-forward="true" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="representative.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/representative.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="323">
+              <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mockdata.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mockdata.py">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-start-column="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MOCK_DATA.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MOCK_DATA.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="499" column="53" selection-end-line="499" selection-end-column="53" />
+            <state relative-caret-position="296">
+              <caret line="112" column="24" lean-forward="true" selection-start-line="108" selection-start-column="18" selection-end-line="112" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -76,8 +225,54 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+            <state relative-caret-position="337">
+              <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blog.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/blog.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="122" selection-start-line="122" selection-end-line="122" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="78" column="18" lean-forward="true" selection-start-line="74" selection-start-column="12" selection-end-line="78" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="issue.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/issue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-53">
+              <caret line="399" column="1" lean-forward="true" selection-start-line="399" selection-start-column="1" selection-end-line="399" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -102,15 +297,34 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>img_1</find>
+      <find>image</find>
+      <find>../</find>
+      <find>s</find>
+      <find>li</find>
+      <find>submit</find>
+      <find>images</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/templates/results.html" />
         <option value="$PROJECT_DIR$/key.py" />
-        <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/mockdata.py" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/templates/blog.html" />
+        <option value="$PROJECT_DIR$/templates/destination.html" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/representative.html" />
+        <option value="$PROJECT_DIR$/static/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/issue.html" />
       </list>
     </option>
   </component>
@@ -126,6 +340,7 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -138,6 +353,17 @@
             <path>
               <item name="BallotBox" type="b2602c69:ProjectViewProjectNode" />
               <item name="BallotBox" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BallotBox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BallotBox" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BallotBox" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BallotBox" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BallotBox" type="b2602c69:ProjectViewProjectNode" />
@@ -159,8 +385,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -210,18 +437,19 @@
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32859176" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24959612" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" visible="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="3" weight="0.32859176" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32859176" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32859176" />
       <window_info anchor="right" id="Database" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="SciView" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -251,24 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/destination.html">
+    <entry file="file://$PROJECT_DIR$/MOCK_DATA.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="70" selection-start-line="13" selection-start-column="70" selection-end-line="13" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/yourrep.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="395">
+          <caret line="499" column="53" selection-end-line="499" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -279,32 +493,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MOCK_DATA.json">
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="499" column="53" selection-end-line="499" selection-end-column="53" />
+        <state relative-caret-position="-5065">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23590" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/yourrep.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/destination.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="161" column="14" lean-forward="true" selection-start-line="161" selection-start-column="14" selection-end-line="161" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        <state relative-caret-position="335">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="78" column="18" lean-forward="true" selection-start-line="74" selection-start-column="12" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="122" selection-start-line="122" selection-end-line="122" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/representative.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="323">
+          <caret line="57" column="18" lean-forward="true" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="112" column="24" lean-forward="true" selection-start-line="108" selection-start-column="18" selection-end-line="112" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53">
+          <caret line="399" column="1" lean-forward="true" selection-start-line="399" selection-start-column="1" selection-end-line="399" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/issue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
