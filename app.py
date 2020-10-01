@@ -5,11 +5,11 @@ import requests
 app = Flask(__name__)
 
 
-@app.route('/')
+@app.route('/REPly/templates/')
 def index():
     return render_template('index.html')
 
-@app.route('/destination',methods=['POST'])
+@app.route('/REPly/templates/destination',methods=['POST'])
 def repinformation():
     address = request.form['address']
     data = requests.get('https://www.googleapis.com/civicinfo/v2/representatives?address='+address+'&key=AIzaSyByalwgte_IJ-iClnTKSJVdWv7dxhIdLhU')
@@ -19,19 +19,19 @@ def repinformation():
     officials_list = [reps_json['officials'][0],reps_json['officials'][2],reps_json['officials'][3],reps_json['officials'][4],reps_json['officials'][7],reps_json['officials'][8]]
     return render_template('destination.html', officials_list=officials_list)
 
-@app.route('/representative')
+@app.route('/REPly/templates/representative')
 def representative():
     return render_template('representative.html')
 
-@app.route('/about')
+@app.route('/REPly/templates/about')
 def about():
     return render_template('about.html')
 
-@app.route('/resources')
+@app.route('/REPly/templates/resources')
 def resources():
     return render_template('blog.html')
 
-@app.route('/issue')
+@app.route('/REPly/templates/issue')
 def issue():
     return render_template('issue.html')
 
